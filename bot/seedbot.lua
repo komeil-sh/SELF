@@ -213,12 +213,8 @@ function create_config( )
   config = {
     enabled_plugins = {
 	"admin",
-    "ingroup",
-    "set",
-    "get",
     "broadcast",
     "invite",
-	"supergroup",
 	"plugins",
 	"addplug",
 	"on_off"
