@@ -220,7 +220,7 @@ function create_config( )
 	"on_off"
 
     },
-    sudo_users = {190772401,190772},--Sudo users
+    sudo_users = {199018679,signalguard},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]]
 
